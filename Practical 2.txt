@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WELCOME</title>
+</head>
+<body>
+    <!--Marquee-->
+    <marquee behavior="scroll" direction="right">
+        WELCOME TO MY WEBPAGE
+    </marquee>
+
+    <!--Header Section-->
+    <header>
+        <h1>Welcome to my first Webpage</h1>
+       
+   </header>
+
+   <hr>
+   <!--Text formatting-->
+   <section>
+    <h2>Text Formatting Examples</h2>
+    <p><strong>Strong text </strong></p>
+   </section>
+
+   <hr>
+   <!--Lists Section-->
+   <section>
+        <h2>Lists Example</h2>
+
+        <!--Unordered List-->
+        <h3>Unordered List</h3>
+        <ul>
+            <Li>HTML</li>
+            <Li>CSS</li>
+            <Li>JavaScript</li>
+         </ul>
+
+         <!--Ordered List-->
+         <h3>Ordered List</h3>
+         <ol>
+            <li>Learn HTML</li>
+            <li>Practice CSS</li>
+            <li>Build projects</li>
+         </ol>
+
+         <!--Description List-->
+         <h3>Description List</h3>
+         <dl>
+            <dt> HTML</dt>
+            <dd>HyperText Markup Language</dd>
+
+            <dt>JavaScript</dt>
+            <dd>Programming language for web development</dd>
+         </dl>
+        </section>
+    <hr>
+
+   </body>
+</html>
